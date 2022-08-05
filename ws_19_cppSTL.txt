@@ -1,0 +1,21 @@
+                    C++ STL
+                        |
+                        |
+       Algorithms <-----|-----> Containers (Pre-Built Data Structure)------------------->
+            |                                                                           |
+            |                                                                           |
+            |                            <-------------------------<--------------------|------------------>--------------------------------->                               
+      Binary Search             Sequence Container             Container Adaptors               Associative Container               Unordered Associative           
+            |                           |                               |                                  |                                 |  
+    Lower/Upper Bound                   |                               |                                  |                                 |    
+            |                         Array                           Stack                               Set                          Unordered Set    
+         Min/Max                        |                               |                                  |                                 |    
+            |                         Vector                          Queue                               Map                          Unordered Map     
+      Reverse/Rotate                    |                               |                                  |                                 |
+            |                         Deque                       Priority Queue                       Multi Set                    Unordered Multi Set  
+       Sort/Swap etc                    |                                                                  |                                 |               
+                                      List                                                             Multi Map                    Unordered Multi Map  
+                                        |
+                                   Forward-List
+
+
