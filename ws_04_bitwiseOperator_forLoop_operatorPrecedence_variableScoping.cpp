@@ -174,7 +174,21 @@ int main() {
 
     //========== Operators Precedence ==========
     // Just use brackets
+// miscellaneous 
+//     #include <stdio.h>
+// #include <string.h>
 
+// int main(void) {
+//    char* s = "357";
+//    int sum = 0;
+//    int i = 0;
+//    for (i = 0; i < strlen(s); i++) {
+//      sum += s[i] - 48;
+//    }
+//    printf("Sum is %d", sum);
+
+//    return 0;
+// }
 
 
 
